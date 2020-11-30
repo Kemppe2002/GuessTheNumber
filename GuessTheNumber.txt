@@ -1,0 +1,10 @@
+Create random number
+Create integer guess
+Create integer attempts
+Ask user to input their guess, store in guess
+Create loop while guess is wrong
+	Add 1 attempt
+	If guess is wrong
+		Write "Too low" or "Too high"
+	Ask user to guess again
+Tell user they guessed right and their number of attempts
